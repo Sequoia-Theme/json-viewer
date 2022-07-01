@@ -1,25 +1,17 @@
 ![Sequoia Theme Header](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
 
 # Sequoia for APP
-Sequoia theme adapted to APP
+Sequoia theme adapted to json-viewer extension
 
 
 # Instructions
 
-- Prefferences/Themes/Paste the codes.
-
-
-# Available themes:
-
-Moonlight:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#F0BA92,#FFBB88,#0F1014,#868690
-
-Monochrome:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#FFFFFF,#B6BAC8,#0F1014,#868690
-
-
-
-## Screenshots
+- Download JSON Viewer extension for Chrome a chromium based browser.
+---( https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh )
+- Open the JSON Viewer Scratch Pad. To access it, type on the search bar of your browser json-viewer + TAB + scratch pad + ENTER.
+- Enter to the extension settings by clicking on the gear icon on the top-right corner, that says Options when hovered.
+- Change the theme on the settings page to default, the first theme within the dark theme section in the dropdown menu.
+- Go all the way down on the settings page, and copy the CSS code from the css folder in here.
 
 ### Moonlight
 ![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
