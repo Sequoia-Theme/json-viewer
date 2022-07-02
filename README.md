@@ -14,7 +14,12 @@ Sequoia theme adapted to json-viewer extension
 - Go all the way down on the settings page, and copy the CSS code from the css folder in here.
 
 ### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
+![Moonlight](https://github.com/Sequoia-Theme/json-viewer/blob/main/moonlight.png?raw=true)
+
+
+
+### Monochrome
+![Moonlight](https://github.com/Sequoia-Theme/json-viewer/blob/main/monochrome.png?raw=true)
 
 
 #
